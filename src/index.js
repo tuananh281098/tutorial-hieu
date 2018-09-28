@@ -15,7 +15,7 @@ class Board extends React.Component{
     return(
     	<div>
       	<div>Board</div>
-     		<div><Square/></div>
+     		<div><Square /></div>
 
      	</div>
     );
